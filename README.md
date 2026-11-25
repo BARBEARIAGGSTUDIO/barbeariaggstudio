@@ -21,7 +21,7 @@ O projeto está organizado da seguinte forma para manter o código limpo e fáci
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Gabriel Arthur** [@gaabrielarthur](https://github.com/gaabrielarthur)).
+Desenvolvido por **Gabriel Arthur** [@gaabrielarthur]((https://github.com/gaabrielarthur)).
 
 **Site:** https://barbeariaggstudio.github.io/barbeariaggstudio/
 
